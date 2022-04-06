@@ -18,29 +18,3 @@
   Im open to suggestions, i know there are issues but remember you're in early.
 ------------------
 
-BIGLINE to come
--- Scripting System (Not so mIRC style)
--- DCC CHAT
--- DCC SEND
--- EMOJI'Z 
-
-
-TODO
-------------
-04-04-2022
-[fait] send ctcp stop when playing with output to file
---> radio/random should not be started by a remote
-[fait] radio/playlist error quand remove last item
---> colortext optimization
-[fait] nick completion avec <tab>
---> bloquer son windows on keypress chat/chan/status window
-[fait] niclist movable gauche/droite
-[fait] ctrl+v (coller) dans edit chan/chat/stats
-[fait] ajouter indicateur visuel (boutton stop) dans optTb qaund un son joue
-[fait] reconnect on disconnect
-[fait] marker 'new session' on channel join if windows was disabled prior join
-[fait] charger les couleurs de wirc.ini
-
-05-04-2022
---> ajouter indicateur textuel dans publicchat pour lecture sound (afficher les envoies ctcp)
---> config pour changer les couleurs
