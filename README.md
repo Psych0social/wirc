@@ -1,11 +1,6 @@
 # wirc
 ------------------
    Internet Relay Chat client for Windows. By Dave Côté.
-   Im Doing this because im tired of the old looking mirc..
-	 asking for a paid registration 22 years after being outdated.
-	 TOTO is in french of course because im from somewhere in quebec
-	 but the software is all english. Also, todo was created hours after
-	 project initializaion so not everything is in it.
 ------------------
   wIRC is a Windows based IRC Client. It work on almost every windows version starting from xp to 11 (may require some system fix for the later) 
   The application is made using Visual Basic 6.0, while many could argue this choice i'd just answer them that im doing VB6 since my early fifteen,
