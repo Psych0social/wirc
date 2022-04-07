@@ -8,7 +8,7 @@
 
   So you might need to install and fix Visual Basic 6.0 Runtimes for it to run but it's no big job. I could eventually provide something for that, if asked.
 
-  My goal on doing wIRC is to get rid of the old outdated mIRC who's always asking for a paid registration 22 years after being obselete.
+  My goal on doing wIRC is to get rid of the old outdated mIRC who's still asking for a paid registration 22 years after being obselete.
 
   Im open to suggestions, i know there are issues but remember you're in early.
 ------------------
